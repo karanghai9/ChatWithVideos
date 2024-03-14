@@ -1,4 +1,4 @@
-# ChatWithVideo
+# Chat with videos locally using Ollama.
 
 This is a demo Artificial Intelligence **"ChatWithVideo"** project created for Individual Profiling.
 
